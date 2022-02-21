@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+.text-header{
+  font-family: 'Roboto Serif', sans-serif;
+  font-size: 10vh;
+  margin: 2vh;
+  padding-bottom: 3vh;
+}
+.text-info{
+  font-family: 'Roboto Serif', sans-serif;
+  font-size: 10vh;
+  margin-top: 20vh;
+  margin-bottom: 10vh;
+}
 .App {
   text-align: center;
 }
